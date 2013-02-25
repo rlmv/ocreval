@@ -12,7 +12,7 @@
 
 import glob
 
-DictDirectory = "dictionaries/"
+DictDirectory = "ocreval/dictionaries/"
 
 TabChar="\t"
 

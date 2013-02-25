@@ -16,7 +16,7 @@
 '''
 
 
-import TokenGen
+from . import TokenGen
 
 def GetScore(Text,Lexicon,Rules=set(),verbose=False,hyphen=False):
 
