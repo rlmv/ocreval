@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 '''
     This module reads in the specified text file and cleans it for use with
     accuracy and analytical modules.  It returns the "cleaned" file as a list.
